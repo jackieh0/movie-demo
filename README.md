@@ -4,17 +4,17 @@ MovieDemo is a dynamic movie discovery platform built using React. Allowing user
 
 ## Homepage
 
-![alt text](demo-img\moviedemo-homepage.png)
+![alt text](demo-img/moviedemo-homepage.png)
 
 ## Searching Functionality
 
-![alt text](demo-img\moviedemo-search-play.png)
+![alt text](demo-img/moviedemo-search-play.png)
 
 ## Favouriting Movie
 
-![alt text](demo-img\moviedemo-fav1.png)
-![alt text](demo-img\moviedemo-fav2.png)
+![alt text](demo-img/moviedemo-fav1.png)
+![alt text](demo-img/moviedemo-fav2.png)
 
 ## Favourites Page
 
-![alt text](demo-img\moviedemo-favpage.png)
+![alt text](demo-img/moviedemo-favpage.png)
